@@ -141,14 +141,15 @@ https://jaiton.com/
 Jaiton Technologies develops AI-powered School ERP, CRM, Cloud Applications, Mobile Apps, and Custom Enterprise Software for organizations across South Africa and globally.
 
 Website: https://jaiton.com/
-## Get Started
 
-Looking for an AI-powered School Management Software solution for your school?
-
-Visit https://jaiton.com/ to learn more about our School ERP, AI solutions, and cloud-based education software.
 
 ## Conclusion
 
 In 2026, AI School Management Software is transforming education across South Africa by reducing administrative workloads, improving communication, automating routine tasks, and enabling smarter decision-making. Schools that adopt AI-powered School ERP solutions can improve efficiency, deliver better educational experiences, and prepare for the future of digital education.
 
 If your school is planning its digital transformation journey, investing in AI School Management Software is one of the smartest decisions you can make.
+## Get Started
+
+Looking for an AI-powered School Management Software solution for your school?
+
+Visit https://jaiton.com/ to learn more about our School ERP, AI solutions, and cloud-based education software.
