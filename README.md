@@ -131,7 +131,21 @@ Solutions include:
 - Cloud-Based School ERP
 - Custom Education Software Development
 
-Learn more: https://jaiton.com/
+**Website:** https://jaiton.com/
+
+Learn more about our AI School Management Software:
+https://jaiton.com/
+
+## About Jaiton Technologies
+
+Jaiton Technologies develops AI-powered School ERP, CRM, Cloud Applications, Mobile Apps, and Custom Enterprise Software for organizations across South Africa and globally.
+
+Website: https://jaiton.com/
+## Get Started
+
+Looking for an AI-powered School Management Software solution for your school?
+
+Visit https://jaiton.com/ to learn more about our School ERP, AI solutions, and cloud-based education software.
 
 ## Conclusion
 
